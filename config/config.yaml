@@ -14,7 +14,7 @@ games:
     tears_of_themis:
       auto_checkin: false
       black_list: []
-    useragent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15
+    useragent: useragent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1
   os:
     cookie: ''
     enable: false
